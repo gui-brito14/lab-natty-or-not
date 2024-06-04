@@ -7,7 +7,7 @@ Este e-book em inglês, voltado para o público internacional, oferece uma jorna
 ChatGPT e Youtube Transcript
 
 ## 🧐 Processo de Criação
-Eu transcrevi cada vídeo do canal e pedi para o Chat GPT me apresentar um resumo da transcrição.
+Foi realizada a transcrição de cada vídeo do canal de Sakurai, utilizando o Youtube Transcript, e em seguida a solicitação para o Chat GPT apresentar um resumo de cada transcrição.
 
 ## 🚀 Resultados
 Um ebook inteiro e completo sobre Game Design e sobre a história de Masahiro Sakurai.
