@@ -13,4 +13,4 @@ Foi realizada a transcrição de cada vídeo do canal de Sakurai, utilizando o Y
 Um ebook inteiro e completo sobre Game Design e sobre a história de Masahiro Sakurai.
 
 ## 💭 Reflexão (Opcional)
-Este desafio foi revelador para entender o potencial de utilização das Inteligências Artificiais.
+Este desafio foi revelador para entender o potencial de utilização das Inteligências Artificiais para a Educação.
